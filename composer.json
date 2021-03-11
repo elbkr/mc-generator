@@ -1,0 +1,8 @@
+{
+	"name": "menzerath/minecraft-achievement-generator",
+	"description": "This is a simple, in PHP written, Generator of Minecraft Achievements for your website or blog.",
+	"require": {
+		"php": "^7.0.0",
+		"ext-gd": "*"
+	}
+}
