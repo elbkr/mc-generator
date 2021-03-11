@@ -110,6 +110,7 @@
 								<option value="16">Cobweb</option>
 								<option value="28">Potion</option>
 								<option value="29">Splash Potion</option>
+								<option value="40">XP bottle</option>
 							</select>
 						</li>
 						<li>
