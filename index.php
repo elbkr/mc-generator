@@ -123,7 +123,7 @@
 		<?php } ?>
 
 		<div id="footer">
-			Powered by <a href="https://github.com/MarvinMenzerath/MinecraftAchievementGenerator" target="_blank">Minecraft Achievement Generator</a> v1.0.1 | © Minecraft &amp; Images <a href="http://mojang.com" target="_blank">Mojang</a>
+			</a> © Minecraft &amp; Images <a href="http://mojang.com" target="_blank">Mojang</a>
 		</div>
 	</div>
 </body>
