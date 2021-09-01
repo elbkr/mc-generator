@@ -11,6 +11,9 @@ This is a simple, in PHP written, Generator of Minecraft Achievements for your w
 * Simple setup
 * Open-Source
 
+## Wait, I saw this repo in another side, did you take it? 
+* I got the open source repo from the author who's License is specified in this readme, but I added some achievement images, like the XP bottle.
+
 ## Installation
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/MarvinMenzerath/MinecraftAchievementGenerator)
 
